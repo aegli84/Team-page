@@ -58,11 +58,9 @@
         transform-style: preserve-3d;
 }
 
-
 .flip-card:hover .flip-card-inner {
         transform: rotateY(180deg);
 }
-
 
 .flip-card-front,
 .flip-card-back {
@@ -102,7 +100,6 @@
         .flip-card-back {
                 width: 100%;
         }
-
 }
 
 /* Animations */
